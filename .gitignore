@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.turbo/
+.env
+*.mp4
+*.webm
+output/
+tmp/
+.DS_Store
+*.log
+.pnpm-debug.log
+.claude/settings.local.json
+.claude/agent-memory/
